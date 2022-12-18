@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<result>
+ <schedule>
+   <doublet1>
+     <time>
+       <start>
+        <hour>XI</hour>
+        <minutes>XL</minutes>
+      </start>
+       <end>
+        <hour>XIII</hour>
+        <minutes>X</minutes>
+    </end>
+    <weeks>II</weeks>
+    <weeks>IV</weeks>
+    <weeks>VI</weeks>
+    <weeks>VIII</weeks>
+    <weeks>X</weeks>
+    <weeks>XII</weeks>
+    <weeks>XIV</weeks>
+    <weeks>XVI</weeks>
+    </time>
+     <place>
+      <address>Кронверкский пр., д.49, лит.А</address>
+      <room>2306/1 (БЫВШ. 304) АУД.</room>
+    </place>
+    <name>ИНФОРМАТИКА(ЛАБ)</name>
+    <week>чётная неделя</week>
+    <teacher>Белозубов Александр Владимирович</teacher>
+    <kind>Очно-дистанционный</kind>
+  </doublet1>
+   <doublet2>
+     <time>
+       <start>
+        <hour>XI</hour>
+        <minutes>XL</minutes>
+      </start>
+       <end>
+        <hour>XIII</hour>
+        <minutes>X</minutes>
+    </end>
+    <weeks>III</weeks>
+    <weeks>V</weeks>
+    <weeks>VII</weeks>
+    <weeks>IX</weeks>
+    <weeks>XI</weeks>
+    <weeks>XIII</weeks>
+    <weeks>XV</weeks>
+    <weeks>XVII</weeks>
+    </time>
+     <place>
+      <address>Кронверкский пр., д.49, лит.А</address>
+      <room>2306/1 (БЫВШ. 304) АУД.</room>
+    </place>
+    <name>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛАБ)</name>
+    <week>нечётная неделя</week>
+    <teacher>Ткешелашвили Нино Мерабиевна</teacher>
+    <kind>Очно-дистанционный</kind>
+  </doublet2>
+   <doublet3>
+    <time>
+      <start>
+       <hour>XIII</hour>
+       <minutes>XXX</minutes>
+      </start>
+      <end>
+       <hour>XV</hour>
+       <minutes>I</minutes>
+    </end>
+   <weeks>II</weeks>
+   <weeks>IV</weeks>
+   <weeks>VI</weeks>
+   <weeks>VIII</weeks>
+   <weeks>X</weeks>
+   <weeks>XII</weeks>
+   <weeks>XIV</weeks>
+   <weeks>XVI</weeks>
+    </time>
+    <place>
+     <address>Кронверкский пр., д.49, лит.А</address>
+     <room>2306/1 (БЫВШ. 304) АУД.</room>
+    </place>
+   <name>ИНФОРМАТИКА(ЛАБ)</name>
+   <week>чётная неделя</week>
+   <teacher>Белозубов Александр Владимирович</teacher>
+   <form>Очно-дистанционный</form>
+  </doublet3>
+   <doublet4>
+     <time>
+       <start>
+        <hour>XIII</hour>
+        <minutes>XXX</minutes>
+      </start>
+       <end>
+        <hour>XV</hour>
+        <minutes>I</minutes>
+    </end>
+    <weeks>III</weeks>
+    <weeks>V</weeks>
+    <weeks>VII</weeks>
+    <weeks>IX</weeks>
+    <weeks>XI</weeks>
+    <weeks>XIII</weeks>
+    <weeks>XV</weeks>
+    <weeks>XVII</weeks>
+    </time>
+     <place>
+      <address>Кронверкский пр., д.49, лит.А</address>
+      <room>2306/1 (БЫВШ. 304) АУД.</room>
+    </place>
+    <name>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛАБ)</name>
+    <week>нечётная неделя</week>
+    <teacher>Ткешелашвили Нино Мерабиевна</teacher>
+    <kind>Очно-дистанционны</kind>
+    </doublet4>
+  </schedule>
+</result>
